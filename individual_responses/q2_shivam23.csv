@@ -1,0 +1,11 @@
+ques_no,question,option1,option2,option3,option4,correct_option,marks_correct_ans,marks_wrong_ans,compulsory,marked_choice,Total,Legend
+1,4+4=,8,6,7,2.0,1,4,-2,y,1,5,Correct choices
+2,5*8=,13,40,48,54.0,2,4,-2,n,2,0,Wrong choices
+3,5*6+5=,30,32,34,35.0,4,4,-2,y,4,5,Unattempted
+4,9*10=,19,90,99,900.0,2,4,-2,y,2,20,Marks Obtained
+5,10/5=,2,4,6,8.0,1,4,-2,y,1,40,Total Quiz Marks
+6,15*5=,20,25,75,70.0,3,4,-2,y,Skipped,,
+7,48+8=,48,52,54,56.0,4,4,-2,n,Skipped,,
+8,40*10=,50,500,40,400.0,4,4,-2,n,Skipped,,
+9,40/10=,400,40,4,0.4,3,4,-2,y,Skipped,,
+10,10*10=,100,10,5,1.0,1,4,-2,y,Skipped,,

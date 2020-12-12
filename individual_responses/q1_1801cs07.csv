@@ -1,0 +1,11 @@
+ques_no,question,option1,option2,option3,option4,correct_option,marks_correct_ans,marks_wrong_ans,compulsory,marked_choice,Total,Legend
+1,Capital of India?,Mumbai,Chennai,New Delhi,Kolkata,3,5,-1,n,3,1,Correct choices
+2,Capital of Bulgaria?,Sofia,Brazilia,Ottawa,Bangui,1,5,-1,y,2,1,Wrong choices
+3,Capital of France?,Paris,Patna,Amhara,London,1,5,-1,n,Skipped,8,Unattempted
+4,Capital of Cuba?,Nicosia,Havana,London,Jammu,2,5,-1,y,Skipped,4,Marks Obtained
+5,Capital of Germany?,Tokyo,Rio,Berlin,Nairobi,3,5,-1,y,Skipped,50,Total Quiz Marks
+6,Capital of Japan?,Tokyo,Rio,Berlin,Nairobi,1,5,-1,n,Skipped,,
+7,Capital of Norway?,Oslo,Tokyo,Berlin,Nairobi,1,5,-1,y,Skipped,,
+8,Capital of Zimbabwe?,Tokyo,Harare,Ottawa,Bangui,2,5,-1,y,Skipped,,
+9,Capital of Switzerland?,Bern,Rio,New Delhi,Kolkata,1,5,-1,n,Skipped,,
+10,Capital of Itlay?,Rome,Dublin,Budapest,Tehran,1,5,-1,y,Skipped,,

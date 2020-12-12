@@ -1,0 +1,11 @@
+ques_no,question,option1,option2,option3,option4,correct_option,marks_correct_ans,marks_wrong_ans,compulsory,time=5m
+1,The hottest planet in the solar system?,Mercury,Venus,Mars,Jupiter,2,5,-1,y,
+2,The Central Rice Research Station is situated in?,Chennai,Cuttack,Bangalore,Quilon,2,5,-1,n,
+3,Who among the following wrote Sanskrit grammar?,Kalidasa,Charak,Panini,Aryabhatt,3,5,-1,y,
+4,Which peninsular river is least seasonal in flow?,Narmada,Krishna,Godavari,Cauvery,3,5,-1,y,
+5,The metal whose salts are sensitive to light is?,Zinc,Silver,Copper,Aluminum,2,5,-1,y,
+6,Chambal river is a part of –,Sabarmati basin,Ganga basin,Narmada basin,Godavari basin,3,5,-1,n,
+7,D.D.T. was invented by?,Mosley,Rudolf,Karl Benz,Dalton,1,5,-1,y,
+8,Indus river originates in –,Kinnaur,Ladakh,Nepal,Tibet,4,5,-1,y,
+9,Where was the electricity supply first introduced in India –,Mumbai,Dehradun,Darjeeling,Chennai,3,5,-1,n,
+10,Which of the following is not a nuclear power center?,Narora,Kota,Chamera,Kakrapara,3,5,-1,y,
