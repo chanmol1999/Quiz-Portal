@@ -1,2 +1,2 @@
 # Quiz-Portal
-Basic Quiz Portal in Python with csv extraction and result generation
+Basic Quiz Portal in Python, using Tkinter with basic amenities of timer, negative marking, csv extraction, database populatiion and result generation. It has both CLI and GUI interface
